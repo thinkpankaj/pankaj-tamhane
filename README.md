@@ -12,6 +12,13 @@
 
 <p align="left">✨ Creating ML models since 2016<br>🎯 I'm passionate about Data Science having expertise in Computer Vision and Natural Language Processing. I strongly believe in leveraging the power of AI/ML to create a meaningful impact.</p>
 
+
+<p align="left"> Few Blogs that I have authored </p>
+<p>https://blog.thinkitive.com/blog/python-development/ </p>
+<p>https://blog.thinkitive.com/blog/everything-you-need-to-know-about-web-development-in-python/ </p>
+<p>https://blog.thinkitive.com/blog/what-is-webscraping/ </p>
+<p>https://blog.thinkitive.com/blog/flask-restful-apis-python-guide/ </p>
+
 ###
 
 <h2 align="left">I code with</h2>
