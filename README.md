@@ -45,11 +45,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" height="40" alt="openal logo"  />
 </div>
-
-###
-
-<p align="left"> Few Blogs that I have authored </p>
-<p>https://blog.thinkitive.com/blog/python-development/ </p>
-<p>https://blog.thinkitive.com/blog/everything-you-need-to-know-about-web-development-in-python/ </p>
-<p>https://blog.thinkitive.com/blog/what-is-webscraping/ </p>
-<p>https://blog.thinkitive.com/blog/flask-restful-apis-python-guide/ </p>
